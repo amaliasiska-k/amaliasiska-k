@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm AHMAD WILDAN & WELCOME TO MY PROFILE 👋</h1>
+<h1 align="center">Hi, I'm AMALIA SISKA KURNIAWATI 👋</h1>
  
 <div>
-<img src="https://user-images.githubusercontent.com/75109884/151193491-3476bff5-d120-443f-a73e-dda1477cb7cc.gif">
+<img src="https://user-images.githubusercontent.com/76760289/151978026-411088d6-e3a2-45b5-a6f0-60a71d4dad74.gif">
 </div>
 
 ## PROGRESS
@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on **Google AdSense**
 - 🤔 I’m looking for help with **Stack Overflow & Programmer Forums**
 - ⚡ Fun fact: **Coding is Not Magic**
-- 📫 You can reach me at **ahmadwildan.mee@gmail.com**
+- 📫 You can reach me at **amalia.siska39@gmail.com**
  
  ## TECH & TOOLS PREFERENCE
 
