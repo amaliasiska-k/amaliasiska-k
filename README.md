@@ -12,12 +12,6 @@
 </div>
 
 ## PROFILE
-
-- 🧛 I have expertise in **Web Development & SEO Article Content Writing**
-- 🔭 I’m currently working on **KAKANDA TECH Company Profile Website**
-- 🌱 I’m currently learning **Tailwind, React, & Laravel**
-- 👯 I’m looking to collaborate on **Google AdSense**
-- 🤔 I’m looking for help with **Stack Overflow & Programmer Forums**
 - ⚡ Fun fact: **Coding is Not Magic**
 - 📫 You can reach me at **amalia.siska39@gmail.com**
  
