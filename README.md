@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm AMALIA SISKA KURNIAWATI 👋</h1>
+<h1 align="center">Hi, I'm AMEL 👋</h1>
  
 <div>
 <img src="https://user-images.githubusercontent.com/76760289/151978026-411088d6-e3a2-45b5-a6f0-60a71d4dad74.gif" width="100%">
