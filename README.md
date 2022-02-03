@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm AMEL 👋</h1>
+<h1 align="center">Hi, I'm AMEL 🦋</h1>
  
 <div>
 <img src="https://user-images.githubusercontent.com/76760289/152352935-80dfd25e-777d-4020-b5f0-7e745517215b.gif" width="100%">
@@ -32,7 +32,6 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-WordPress-3f49d4?style=flat&logo=wordpress&logoColor=white">
-<img src="http://img.shields.io/badge/-Yoast SEO-bf1587?style=flat&logo=yoast&logoColor=white">
 <img src="http://img.shields.io/badge/-Sublime Text-333333?style=flat&logo=sublimetext&logoColor=white">
 <img src="http://img.shields.io/badge/-Figma-21ba21?style=flat&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white">
