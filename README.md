@@ -15,32 +15,12 @@
 - ⚡ Fun fact: **Coding is Not Magic**
 - 📫 You can reach me at **amalia.siska39@gmail.com**
  
-### TECH & TOOLS PREFERENCE
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-WEB Builder-c41f1f?style=flat&logo=codeigniter&logoColor=white">
-<img src="https://img.shields.io/badge/-Android Studio-32a852?style=flat&logo=androidstudio&logoColor=white">
-<img src="http://img.shields.io/badge/-Github Copilot-2f657a?style=flat&logo=github&logoColor=white">
-<img src="http://img.shields.io/badge/-Laragon-429aff?style=flat&logo=laragon&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/-TypeScript-4287f5?style=flat&logo=typescript&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-WordPress-3f49d4?style=flat&logo=wordpress&logoColor=white">
-<img src="http://img.shields.io/badge/-Sublime Text-333333?style=flat&logo=sublimetext&logoColor=white">
-<img src="http://img.shields.io/badge/-Figma-21ba21?style=flat&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white">
-
 ### OTHER LANGUAGES & FRAMEWORK I KNOW
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-ff9900?style=flat&logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PHP-6363ff?style=flat&logo=php&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white"> <img src="http://img.shields.io/badge/-Laravel-ff3c00?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind CSS-5A0FC8?style=flat&logo=css3&logoColor=white">
 
 ### SOCIAL MEDIA
-
-<img src="http://img.shields.io/badge/-Facebook-2b52ff?style=flat&logo=facebook&logoColor=white"> <img src="https://img.shields.io/badge/-Instagram-f52a82?style=flat&logo=instagram&logoColor=ffffff"> <img src="https://img.shields.io/badge/-WhatsApp-32a852?style=flat&logo=whatsapp&logoColor=ffffff"> <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=linkedin&logoColor=ffffff">
+<a href="https://www.facebook.com/people/Amalia-Siska-Kurniawati/100010509811245/"><img src="http://img.shields.io/badge/-Facebook-2b52ff?style=flat&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/amaliasiska_k/"><img src="https://img.shields.io/badge/-Instagram-f52a82?style=flat&logo=instagram&logoColor=ffffff"></a>
+<a href="https://wa.me/+6285257233349"><img src="https://img.shields.io/badge/-WhatsApp-32a852?style=flat&logo=whatsapp&logoColor=ffffff"></a>
+<a href="https://www.linkedin.com/in/amalia-siska-kurniawati-039b8b1b5/"><img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=linkedin&logoColor=ffffff"></a>
