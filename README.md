@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I'm AMEL 👋</h2>
+<h1 align="center">Hi, I'm AMEL 👋</h1>
  
 <div>
-<img src="https://user-images.githubusercontent.com/76760289/151978026-411088d6-e3a2-45b5-a6f0-60a71d4dad74.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/76760289/152352935-80dfd25e-777d-4020-b5f0-7e745517215b.gif" width="100%">
 </div>
 
 ### PROGRESS
