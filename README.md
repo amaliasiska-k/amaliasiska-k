@@ -24,4 +24,3 @@
 <a href="https://wa.me/+6285257233349"><img src="https://img.shields.io/badge/-WhatsApp-32a852?style=flat&logo=whatsapp&logoColor=ffffff"></a>
 <a href="https://www.instagram.com/amaliasiska_k/"><img src="https://img.shields.io/badge/-Instagram-f52a82?style=flat&logo=instagram&logoColor=ffffff"></a>
 <a href="https://www.linkedin.com/in/amalia-siska-kurniawati-039b8b1b5/"><img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=linkedin&logoColor=ffffff"></a>
-<a href="https://www.facebook.com/people/Amalia-Siska-Kurniawati/100010509811245/"><img src="http://img.shields.io/badge/-Facebook-2b52ff?style=flat&logo=facebook&logoColor=white"></a>
